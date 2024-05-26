@@ -1,0 +1,29 @@
+repo_name: chris18890/mta-sts.krismurray.co.uk
+report_id: 00c13eac312b7239d7d4e62005814adb
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-26T16:26:40+00:00'
+requested_by: chris18890
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/chris18890/mta-sts.krismurray.co.uk
+  detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/chris18890/mta-sts.krismurray.co.uk/blob/main/index.html
+  detection_source: index.html
+  last_updated_by: Chris Murray
